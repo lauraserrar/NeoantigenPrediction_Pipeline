@@ -1,0 +1,2 @@
+Sample	Total	Total_WB	Total_SB
+288_008_somatic_filtered_PASS	75	60	15

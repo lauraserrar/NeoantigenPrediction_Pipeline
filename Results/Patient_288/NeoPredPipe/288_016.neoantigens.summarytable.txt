@@ -1,0 +1,2 @@
+Sample	Total	Total_WB	Total_SB
+288_016_somatic_filtered_PASS	323	229	94
