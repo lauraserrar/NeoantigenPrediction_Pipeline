@@ -15,14 +15,14 @@ Contains the scripts for predicting neoantigens.
 Contains all the outputs of the pipeline per patient.
 	- Final folder contains the Additional Supplementary Tables with the final outputs of the pipeline.
 
-##Requirements
+## Requirements
 
 In order to run the pipeline additional files are needed.
-- List of patients
-- List of samples (per each patient)
-- List of tumour sample (per each patient)
-- List of normal sample (per each patient)
-- List of chromosomes (be careful if X or Y needed)
+- List of patients, must be saved in the general folder
+- List of samples (per each patient), must be saved in the patient folder
+- List of tumour sample (per each patient)must be saved in the patient folder
+- List of normal sample (per each patient)must be saved in the patient folder
+- List of chromosomes (be careful if X or Y needed) must in saved at the general folder
 
 ## About this repository
 
